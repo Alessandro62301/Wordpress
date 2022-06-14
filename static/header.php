@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/bootstrap-icons.css">
   <link rel="stylesheet" href="css/style.css">
-  <title>Eldorado</title>
+  <title>WordPress</title>
 </head>
 
 <body>
