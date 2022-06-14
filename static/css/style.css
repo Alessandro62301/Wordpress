@@ -1,0 +1,21 @@
+/* Padrão de classe: utilizar prefixo "eb" conforme a classe do bootstrap */
+:root {
+	--eb-primary: #054A29;
+}
+.wrap-logo-top {
+	height: 109px;
+}
+.logo {
+	background-color: white;
+	width: 200px;
+	height: 66px;
+}
+.bg-eb-primary {
+	background-color: var(--eb-primary);
+}
+.navbar .navbar-nav {
+	font-size: 12px;
+}
+.banner-main {
+	height: calc(100vh - 175px);
+}

@@ -1,0 +1,7 @@
+<!-- import bootstrap JS-->
+<!-- <script src="js/bootstrap.bundle.min.js"></script> -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/scripts.js"></script>
+</body>
+
+</html>
