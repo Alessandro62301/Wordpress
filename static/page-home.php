@@ -29,12 +29,12 @@
     <div class="content-header aling-items-center">
         <div class="container h-100 pt-4">
             <div class="teste px-4">
-                <!-- <h3 class="title-h2 pt-3" >Quer sabe mais sobre nosso JOBS</h3>
-                <p class="subtitle pt-3" >Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos.</p> -->
-                <!-- <div class="inputJobs mt-5">
+                <h3 class="title-h2 pt-3" >Quer sabe mais sobre nosso JOBS</h3>
+                <p class="subtitle pt-3" >Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos.</p>
+                <div class="inputJobs mt-5">
                     <input type="text" placeholder="Digite aqui seu email" class="ms-3 text-light">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fff" width="36px" height="36px"><path d="M0 0h24v24H0z" fill="none"/><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/></svg>
-                </div> -->
+                </div>
             </div>
         </div>
     </div>
@@ -88,7 +88,6 @@
                             simulação de texto daLorem Ipsum é simplesmente uma simulação de texto da
                             </p>
                         </div>
-                    </div>
                     </div>
                 </div>
             </div>
