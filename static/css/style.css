@@ -1,6 +1,8 @@
 /* Padrão de classe: utilizar prefixo "eb" conforme a classe do bootstrap */
 :root {
 	--av-primary: #033E8C;
+	--av-gray: #EFEFEF;
+	--av-text-gray: #707070;
 }
 body{
 	height: 2000px;
@@ -12,26 +14,107 @@ body{
 	font-size: 51px;
 	color:#FFFFFF;
 }
+.title-h2{
+	font-size: 35px;
+	color:#FFFFFF;
+}
 .subtitle{
 	font-size: 14px;
 	color:#FFFFFF;
 }
+.subtitle-2{
+	font-size: 18px;
+	color:var(--av-text-gray);
+}
+.screenHeight{
+	height: calc(100vh - 70px);
+}
 
 
 /* NavBar */
-
+.header-custom{
+	height: 70px;;
+}
 
 /* Banner Home */
 .banner-home{
-	height: calc(100vh - 80px);
-	background: rgb(3,62,140);
-	background: linear-gradient(180deg, rgba(3,62,140,1) 0%, rgba(254,208,232,1) 85%);
+	background: var(--av-primary);
+	background: linear-gradient(180deg, var(--av-primary) 0%, rgba(254,208,232,1) 85%);
 }
-.banner-home .banner-card{
+.banner-home .content-body .banner-card{
 	height: 450px;
 	width: 530px;
 	border-radius: 31px;
 }
-.banner-home .content-text{
+.banner-home .content-body .content-text{
 	max-width: 630px;
+}
+.banner-home .content-footer{
+	margin-top: 150px;
+}
+.banner-home .content-footer .controls-banner{
+	width: 100%;
+	height: 66px;
+}
+
+/* About Us */
+.about-us{
+	background-color:var(--av-gray) ;
+	min-height: calc(100vh - 70px);
+}
+.about-us .content-header{
+	background-color: var(--av-primary);
+	height: 320px;
+	margin: 0 80px;
+	border-radius: 15px;
+	transform: translateY(-160px);
+}
+.about-us .content-header .container .teste{
+	width: 600px;
+}
+.about-us .inputJobs{
+	max-width: 400px;
+	height: 60px;
+	background-color: #2B5697;
+	color: black;
+	border-radius: 13px;
+}
+.about-us .inputJobs input{
+	width: 80%;
+	height: 100%;
+	border: none;
+	border-radius: 13px;
+	background-color: #2B5697;
+}
+.about-us .inputJobs input:focus{
+	border: none;
+	outline: none;
+}
+.about-us .inputJobs input::placeholder{
+	color: #fff;
+}
+
+/* Cards */
+.about-us .content-footer{
+	
+}
+.about-us .content-footer .about-card{
+	max-width: 360px;
+	height: 270px;
+	border-radius: 8px;
+	text-overflow: ellipsis;
+	margin: 0 20px;
+}
+.about-us .content-footer .about-card .avatar{
+	width: 87px;
+	height: 87px;
+	border-radius: 100%;
+	background-color: #0f0;
+}
+
+/* qualifications */
+
+.qualifications{
+	background-color:var(--av-gray) ;
+	min-height: calc(100vh - 70px);
 }

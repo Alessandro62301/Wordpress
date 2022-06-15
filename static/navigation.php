@@ -7,7 +7,7 @@
     }
 ?> -->
 
-<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+<nav class="header-custom navbar sticky-top navbar-expand-lg navbar-light bg-light">
   <div class="container-lg  fw-bold">
     <a class="navbar-brand" href="#">Alive</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
