@@ -17,7 +17,7 @@
                 </div>
             </div>
         </div>
-        <div class="content-footer bg-success">
+        <div class="content-footer bg-light rounded-3">
             <div class="controls-banner">
                 <h1>controls</h1>
             </div>
@@ -98,7 +98,7 @@
 
 <section class="qualifications pt-5">
     <div class="container pt-5">
-        <div class="content-header text-center">
+        <div class="content-header text-start">
             <h2 class="title text-dark mb-5">Qualificações</h2>
             <p class="subtitle-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi
                 consequatur totam voluptatem recusandae in dicta, cum ipsa animi eligendi. Rerum 
@@ -109,7 +109,76 @@
             </p>
         </div>
         <div class="content-body">
-            
+
+            <div class="container">
+                <div class="row justify-content-around">
+
+                <div class="qualifications-card">
+                    <div>
+                        <!-- <img src="" alt=""> -->
+                        <div class="card-image bg-dark">
+
+                        </div>
+                    </div>
+                    <div class="">
+                        <h3 class="fs-5 fw-bold text-dark mt-4">UX/UI DESIGNER</h3>
+                        <p class="subtitle-2 fs-6 mt-4">
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de 
+                        impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido
+                        pegou.
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de 
+                        impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido
+                        pegou.
+                        </p>
+                        <a href="#" class="mt-5">SAIBA MAIS --></a>
+                    </div>
+                </div>
+
+                <div class="qualifications-card">
+                    <div>
+                        <!-- <img src="" alt=""> -->
+                        <div class="card-image bg-dark">
+
+                        </div>
+                    </div>
+                    <div class="">
+                        <h3 class="fs-5 fw-bold text-dark mt-4">UX/UI DESIGNER</h3>
+                        <p class="subtitle-2 fs-6 mt-4">
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de 
+                        impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido
+                        pegou.
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de 
+                        impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido
+                        pegou.
+                        </p>
+                        <a href="#" class="mt-5">SAIBA MAIS --></a>
+                    </div>
+                </div>
+
+                <div class="qualifications-card">
+                    <div>
+                        <!-- <img src="" alt=""> -->
+                        <div class="card-image bg-dark">
+
+                        </div>
+                    </div>
+                    <div class="">
+                        <h3 class="fs-5 fw-bold text-dark mt-4">UX/UI DESIGNER</h3>
+                        <p class="subtitle-2 fs-6 mt-4">
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de 
+                        impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido
+                        pegou.
+                        Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de 
+                        impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido
+                        pegou.
+                        </p>
+                        <a href="#" class="mt-5">SAIBA MAIS --></a>
+                    </div>
+                </div>
+
+                </div>
+            </div>
+
         </div>
-    </div>
 </section>
+                
